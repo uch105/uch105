@@ -37,7 +37,6 @@ Specializing in versatile technology solutions from embedded systems to machine 
 | **Kidvive-Prototype** | Full-stack dashboard for real-time data visualization | Rust, RTIC, ESP-32 |
 | **Materials Science Hub** | Machine learning on materials properties for predictive analysis, Forum for materials science enthusiasts | Django, Scikit-Learn, Dev-Ops |
 | **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash |
-| **Security Research** | Analysis of encryption methods and vulnerability testing | Python, Wireshark, Metasploit |
 
 ---
 
