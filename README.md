@@ -34,9 +34,9 @@ Specializing in versatile technology solutions from embedded systems to machine 
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------| ---- |
-| **Kidvive-Prototype** | Full-stack dashboard for real-time data visualization | Rust, RTIC, ESP-32 |
-| **Materials Science Hub** | Machine learning on materials properties for predictive analysis, Forum for materials science enthusiasts | Django, Scikit-Learn, Dev-Ops |
-| **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash |
+| **Kidvive-Prototype** | Full-stack dashboard for real-time data visualization | Rust, RTIC, ESP-32 | [Github Link](https://github.com/uch105/kidvive) |
+| **Materials Science Hub** | Machine learning on materials properties for predictive analysis, Forum for materials science enthusiasts | Django, Scikit-Learn, Dev-Ops | [Github Link](https://github.com/uch105/mse) |
+| **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash | [Github Link](https://github.com/uch105/practice_uch) |
 
 ---
 
