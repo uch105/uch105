@@ -1,55 +1,56 @@
-# Hi there! 👋 Welcome to My GitHub Profile
+# 👋 Hi, I'm Tanvir Saklan
 
-I'm [Tanvir Saklan] — a passionate developer and tech enthusiast with a knack for solving complex problems. I specialize in **Python**, **C**, **C++**, **HTML/CSS**, and **JavaScript**, and I thrive on building efficient and elegant solutions for a wide range of challenges.
-
----
-
-🔥 **What I Do**
-
-🐍 **Python Mastery**
-- **Automation**: Crafting scripts and workflows to save time and effort.
-- **Data Visualization**: Turning raw data into compelling visual stories with tools like **Matplotlib**, **Seaborn**, and **Plotly**.
-- **LLM Enthusiast**: Currently exploring and improving my skills in **Large Language Models**.
-
-🌐 **Web Development**
-- Proficient in **HTML**, **CSS**, and **JavaScript**.
-- Backend development and API creation with **Django** and **Flask**.
-
-### 🛠️ **System Administration**
-- **Linux Server Administration**: Managing and optimizing servers.
-- Proficient in maintaining **Nginx** servers for secure and high-performance web hosting.
+**Software Engineer & Developer**  
+Specializing in versatile technology solutions from embedded systems to machine learning.
 
 ---
 
-💡 **Highlights of My Skills**
+## 🛠️ Technical Proficiency
 
-| **Languages**         | **Frameworks/Tools** | **Skills**                          |
-|-----------------------|----------------------|-------------------------------------|
-| Python, C, C++        | Django, PyQt5        | Automation, Data Visualization      |
-| HTML, CSS, JavaScript | Matplotlib, Plotly   | Web Development, LLM Exploration    |
-| Bash, Shell Scripting | Nginx, Linux         | Server Administration               |
+### **Primary Languages & Frameworks**
+- **Python**: `Django`, `Flask`, `FastAPI`, `Pillow`, `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`
+- **Rust**: `Actix`, `Axum`, `Embassy`, `RTIC`
+- **Front-End**: Basic `HTML`, `CSS` and `JS`
 
----
+### **Specializations**
+- **Full-Stack Web Development**: `Django / Flask / FastAPI / Axum / Actix` + `HTML / HTMX / Leptos / WASM` + `PostgreSQL / Sqlite3` + `Redis`
+- **Embedded Systems Programming**: Microcontrollers (Arduino, ESP32), RTOS
+- **Machine Learning & Data Analysis**: Predictive modeling, data visualization, automation scripts
+- **Security**: Application security, encryption, secure coding practices
+- **Automation**: Scripting, CI/CD, workflow optimization
 
-🛠️ **My Coolest Projects**
+### **DevOps & Systems**
+- **Web Servers**: Nginx configuration, reverse proxy, load balancing, SSL/TLS
+- **Linux Administration**: Shell scripting, system monitoring, service management
+- **Version Control**: Git workflows, collaboration strategies, repository management
 
-[**1. Automation Wizardry**](#)
-- Designed a suite of Python tools to automate repetitive tasks, boosting productivity.
-- Example: Automatically deploy updates to Nginx-based web servers, web crawler to gather information from internet.
-
-[**2. Data Visualizer**](#)
-- A Python-based dashboard that visualizes complex datasets.
-- Tools: **Plotly**, **Pandas**, **Pillow** , **PyQt5** , **Kivy**, **Numpy**, **Tensorflow**, **Kivy** and **Matplotlib**.
-
-[**3. LLM Research**](#)
-- Researching and experimenting with **Large Language Models** to create smarter applications.
-
----
-
-🤝 **Let's Connect**
-- 🌐 https://siuchtechnologies.com/portfolio/uch/
-- 💼 https://www.linkedin.com/in/uch105/
+### **Documentation & Publishing**
+- **LaTeX**: Academic papers, technical documentation, reports
+- **Markdown**: Documentation, READMEs, project wikis
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+## 🚀 Current Projects
+
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------| ---- |
+| **Kidvive-Prototype** | Full-stack dashboard for real-time data visualization | Rust, RTIC, ESP-32 |
+| **Materials Science Hub** | Machine learning on materials properties for predictive analysis, Forum for materials science enthusiasts | Django, Scikit-Learn, Dev-Ops |
+| **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash |
+| **Security Research** | Analysis of encryption methods and vulnerability testing | Python, Wireshark, Metasploit |
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/uch105/](https://www.linkedin.com/in/uch105/)
+- **Email**: only.uch105@gmail.com
+- **Portfolio**: [Portfolio](https://portfolio.pilabuch.xyz/)
+
+---
+
+## 🎯 Philosophy
+
+> *"Build systems that are secure, efficient, and maintainable. From embedded devices to cloud applications, the principles of good engineering remain constant."*
+
+---
