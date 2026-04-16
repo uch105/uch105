@@ -8,13 +8,13 @@ Specializing in versatile technology solutions from embedded systems to machine 
 ## 🛠️ Technical Proficiency
 
 ### **Primary Languages & Frameworks**
-- **Python**: `Django`, `Flask`, `FastAPI`, `Pillow`, `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`
-- **Rust**: `Actix`, `Axum`, `Embassy`, `RTIC`
+- **Python**: `Django`, `Pillow`, `Pandas`, `NumPy`
+- **Rust**: `Axum`, `SeaORM`, `Dioxus`, `Embassy`, `RTIC`, `esp-hal`
 - **Front-End**: Basic `HTML`, `CSS` and `JS`
 
 ### **Specializations**
-- **Full-Stack Web Development**: `Django / Flask / FastAPI / Axum / Actix` + `HTML / HTMX / Leptos / WASM` + `PostgreSQL / Sqlite3` + `Redis`
-- **Embedded Systems Programming**: Microcontrollers (Arduino, ESP32), RTOS
+- **Full-Stack Web Development**: `Django / Axum` + `HTML+CSS+JS / Dioxus` + `PostgreSQL / Sqlite3` + `Redis`
+- **Embedded Systems Programming**: Microcontrollers (Arduino, ESP32), RTIC
 - **Machine Learning & Data Analysis**: Predictive modeling, data visualization, automation scripts
 - **Security**: Application security, encryption, secure coding practices
 - **Automation**: Scripting, CI/CD, workflow optimization
@@ -25,7 +25,6 @@ Specializing in versatile technology solutions from embedded systems to machine 
 - **Version Control**: Git workflows, collaboration strategies, repository management
 
 ### **Documentation & Publishing**
-- **LaTeX**: Academic papers, technical documentation, reports
 - **Markdown**: Documentation, READMEs, project wikis
 
 ---
