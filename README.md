@@ -8,8 +8,8 @@ Specializing in versatile technology solutions from embedded systems to machine 
 ## 🛠️ Technical Proficiency
 
 ### **Primary Languages & Frameworks**
-- **Python**: `Django`, `Pillow`, `Pandas`, `NumPy`
 - **Rust**: `Axum`, `SeaORM`, `Dioxus`, `Embassy`, `RTIC`, `esp-hal`
+- **Python**: `Django`, `Pillow`, `Pandas`, `NumPy`
 - **Front-End**: Basic `HTML`, `CSS` and `JS`
 
 ### **Specializations**
@@ -34,7 +34,7 @@ Specializing in versatile technology solutions from embedded systems to machine 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------| ---- |
 | **Kidvive-Prototype** | Full-stack dashboard for real-time data visualization | Rust, RTIC, ESP-32 | [Github Link](https://github.com/uch105/kidvive) |
-| **Materials Science Hub** | Machine learning on materials properties for predictive analysis, Forum for materials science enthusiasts | Django, Scikit-Learn, Dev-Ops | [Github Link](https://github.com/uch105/mse) |
+| **Materials Science Hub** | Machine learning on materials properties for predictive analysis, Forum for materials science enthusiasts | Rust (Axum, Dioxus) | [Github Link](https://github.com/uch105/mse) |
 | **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash | [Github Link](https://github.com/uch105/practice_uch) |
 
 ---
